@@ -11,10 +11,9 @@ A responsive front-end clone of the Netflix homepage built using modern web tech
 <h2>🎨 Gift</h2>
 
 <img src="pic/bookstore.gif" width="800" />
-*(Replace with your deployed URL if available)*
 
-![Netflix Clone Screenshot](./screenshot.png)  
-*(Include a screenshot or GIF of your project)*
+
+
 
 ---
 
