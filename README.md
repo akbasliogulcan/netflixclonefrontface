@@ -19,8 +19,8 @@ A responsive front-end clone of the Netflix homepage built using modern web tech
 
 ## 🛠️ Built With
 
-- **HTML5** – Structure
-- **CSS3** / **Tailwind CSS** – Styling and Layout
+- **HTML** – Structure
+- **CSS3** /  CSS – Styling and Layout
 
 
 ---
