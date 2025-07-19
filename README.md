@@ -35,4 +35,5 @@ A responsive front-end clone of the Netflix homepage built using modern web tech
 ✅ Clean UI design inspired by Netflix
 
 ---
+you can see as live this link: https://phenomenal-heliotrope-46f436.netlify.app/
 
